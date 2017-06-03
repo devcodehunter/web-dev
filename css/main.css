@@ -1,20 +1,3 @@
-button {
-	padding: 10px 20px;
-	text-align: center;
-	font-weight: bold;
-	background-color: lightblue;
-	border-radius: 5px 10px;
-	box-shadow: 1px 4px 10px #000;
-}
 
-ul {
-	font-size: 24px;
-	font-weight: bold;
-}
-ul li {
-	margin-bottom: 15px;
-	border-bottom: 1px solid #999;
-	width: 30%;
-}
 
 /*# sourceMappingURL=main.css.map */
