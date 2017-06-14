@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Web-Dev</title>
+		<title>Web-Dev Power</title>
 		<link rel="stylesheet" href="css/main.css">
 	</head>
 
