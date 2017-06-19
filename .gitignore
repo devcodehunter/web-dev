@@ -1,0 +1,6 @@
+# ignore all files from git
+
+*.sass-cache
+node_modules/
+.tmp/
+.DS_Store

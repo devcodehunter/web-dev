@@ -6,18 +6,22 @@
 	</head>
 
 	<body>
+		<div>
+			<header>
+				<h1>This is header.</h1>
+				<p>This is title</p>
+			</header>
+			<section>
+			
+			</section>
+
+			<footer>
+			
+			</footer>	
+		</div>
 		
-		<h1>Click a list item to replace this text</h1>
-		<div id="res"></div>
+
 		
-		<button onclick="">Add New Item</button>
-		<ul id="list-item">
-			<li>First Item</li>
-			<li>Second Item</li>
-			<li>Third Item</li>
-			<li>Four Item</li>
-			<li>Five Item</li>
-		</ul>
 		<script src="js/main.js"></script>
 	</body>
 </html>
